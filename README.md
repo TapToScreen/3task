@@ -1,19 +1,11 @@
 # vue3-router-vuex-axios
 
-## Project setup
+## ВНИМАНИЕ! С НАЧАЛО НУЖНО ЗАПУСТИТЬ JSON-SERVER ЧТОБЫ СЛЕДИТЬ ЗА ДАННЫМИ ИЗ db.json
 ```
-npm install
+json-server -w db.json
 ```
 
-### Compiles and hot-reloads for development
+### ЗАПУСК СЕРВЕРА
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
